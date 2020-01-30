@@ -1,0 +1,35 @@
+html { height: 100%; }
+
+body { background-image: url("background.jpeg");
+       background-size: 100%;
+	   margin-top: 5%;
+	   margin-bottom: 5%;
+       margin-left: 15%;
+       margin-right: 15%; }
+
+.info { text-align: center; }
+
+.info h1 { font-size: 50pt;
+	       font-family: "IM Fell English SC", Times, serif; }
+
+.info h2 { font-family: "IM FELL DW Pica", Times, serif;
+           font-size: 20pt;
+           margin-top: -60px; }
+
+.project { text-align: center;
+           line-height: 5px;
+           margin-top: 50px;
+           margin-bottom: 50px;}
+
+.project p { font-family: "IM FELL DW Pica", Times, serif;
+             font-style: italic; }
+
+.text { line-height: 23px; }
+
+.page h3 { font-family: "IM Fell English SC", Times, serif; 
+           font-size: 20pt;}
+
+.text p { color: black;
+	      font-size: 14pt;
+          font-family: "IM FELL DW Pica", Times, serif;
+          font-style: italic; }
